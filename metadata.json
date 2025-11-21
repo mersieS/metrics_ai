@@ -1,0 +1,5 @@
+{
+  "name": "MetriX AI Analytics",
+  "description": "A comprehensive web analytics dashboard powered by Gemini AI, featuring real-time traffic monitoring, geographic visualization, and automated insights.",
+  "requestFramePermissions": []
+}
